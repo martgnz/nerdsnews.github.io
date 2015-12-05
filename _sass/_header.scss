@@ -4,7 +4,10 @@
     background-color: $navbar-color;
     border-color: $navbar-color;
     border-radius: 0;
+    height: 5.5em;
+    text-align: center;
 }
-.navbar-default .navbar-brand {
-    color: $white;
+.navbar-brand--logo {
+    height: 5em;
+    padding-top: 1em;
 }
