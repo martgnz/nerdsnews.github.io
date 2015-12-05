@@ -1,0 +1,10 @@
+@import "colors";
+
+.navbar {
+    background-color: $navbar-color;
+    border-color: $navbar-color;
+    border-radius: 0;
+}
+.navbar-default .navbar-brand {
+    color: $white;
+}
