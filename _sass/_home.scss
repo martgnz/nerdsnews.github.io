@@ -6,4 +6,16 @@
 }
 .post-meta {
     font-family: $font-sans;
+    float: right;
+    margin-top: 2em;
+}
+.post-link {
+    font-size: 2.5em;
+}
+a:hover {
+    text-decoration: none;
+    color: #337ab7;
+}
+.post {
+    margin-bottom: 4em;
 }
